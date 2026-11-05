@@ -1,11 +1,3 @@
----
-title: "GraphRAG tools: detailed landscape"
-description: "A comprehensive GraphRAG tooling directory with detailed profiles, source links, implementation context, and evaluation considerations."
-research_date: "2026-11-05"
----
-
-[Landscape home](../index.md) · [Terminology](../terminology.md) · [Research method](../research-method.md)
-
 # GraphRAG Tools: Detailed Landscape
 
 The directory separates semantic models, populated knowledge graphs, retrieval implementations, application products, and supporting infrastructure. A semantic definition, a loaded graph, and a generated answer are different outputs.
